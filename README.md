@@ -12,3 +12,7 @@ Tenu.lua → Met la tenue du H
 esp.lua → ESP visuel (voir joueurs / objets)
 
 Lumex menu → Menu leak By me [ Nunshi ] 
+
+Rob OX_invotory → pourvoir ouvrir les inventaire des joueur si le serveur utiliser la ressource ox_inventory
+
+Pickup PropsV2 → Porter des véhicules et objets avec la touche Y
